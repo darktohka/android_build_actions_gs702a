@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="darktohka/android_device_actions_gs702a" path="device/actions/gs702a" remote="github" />
+  <project name="darktohka/android_vendor_actions_gs702a" path="vendor/actions/gs702a" remote="github" />
+</manifest>
